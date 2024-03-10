@@ -1,0 +1,3 @@
+# recommended settings for Zig, especially on Windows
+* text=auto
+*.zig text=auto eal=lf
